@@ -71,14 +71,16 @@ Your finished project must include all of the following requirements:
 
 * [ ] Once you get your `Tab` component working properly add a couple more articles yourself and check out how it works.
 
-## Stretch Problems
+## Stretch Problems 
+
+* [ not doing stretch problems today]
 
 Your stretch challenge is to write the functionality of a `Carousel` component. You have the HTML and CSS already in place, simply un-comment the HTML in the `index.html` file. This is an advanced challenge, so you are not expected to be able to complete it. If you begin and don't finish, you should still submit with what you have. You may reference the `Tabs.js` file for assistance.
 
-* [ ] Complete the carousel functionality in `Carousel.js`
+* [ not today ] Complete the carousel functionality in `Carousel.js`
 
-* [ ] If you complete the Carousel, add functionality so that the carousel slides when the buttons are pressed instead of just appearing.
+* [ not today ] If you complete the Carousel, add functionality so that the carousel slides when the buttons are pressed instead of just appearing.
 
-* [ ] Create an 'infinite loop' carousel. In which as long as you click on an arrow, the array of images will loop over itself.
+* [ not today ] Create an 'infinite loop' carousel. In which as long as you click on an arrow, the array of images will loop over itself.
 
-* [ ] If you have finished the above, play around with the styling on all the components, and understand how each is built.
+* [ not today ] If you have finished the above, play around with the styling on all the components, and understand how each is built.
