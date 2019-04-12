@@ -32,18 +32,32 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The DOM is the 'Document Object Model' - it's a tree-based model of how the HTML elements are nested. 
+
+We can modify the DOM with Javascript to make live changes to the website.
+
 2. What is an event?
+
+Events are different ways a user can interact with a page. Examples are - clicking on something, scrolling, mouseover, etc etc.
 
 3. What is an event listener?
 
+An event listener is a Javascript function that patiently waits for the user to perform a specific event. Then it triggers a specific JS function.
+
 4. Why would we convert a NodeList into an Array?
+
+NodeLists don't have all of the functions that are built into Array objects, so we may want to convert them into Arrays for access to that greater functionality.
 
 5. What is a component?
 
+Components are reusable pieces of code we can use to design specific webpage elements, and have their exact design be repeated multiple times with different content.
+
+It's similar to classes in OOP, implemented in a very similar way with Javascript objects.
+
 ### Git Set up
 
-* [ ] Fork the project into your GitHub user account
-* [ ] Clone the forked project into a directory on your machine
+* [ x ] Fork the project into your GitHub user account
+* [ x ] Clone the forked project into a directory on your machine
 * [ ] Create a pull request before you start working on the project requirements.  You will continuously push your updates throughout the project.
 * [ ] You are now ready to build this project with your preferred IDE
 
